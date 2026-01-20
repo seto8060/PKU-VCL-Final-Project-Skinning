@@ -1,0 +1,20 @@
+{
+    packages = {
+        [[C:\Users\31667\AppData\Local\.xmake\packages\n\ninja\v1.13.1\fd5a0995dca64146a4f4c4dbff879aad]],
+        [[C:\Users\31667\AppData\Local\.xmake\packages\c\cmake\4.0.3\5249d11949644178abe2f58a6ffb0624]],
+        [[C:\Users\31667\AppData\Local\.xmake\packages\p\python\3.13.2\6faae9af9f22402ab07797869df2de6e]],
+        [[C:\Users\31667\AppData\Local\.xmake\packages\g\glad\v0.1.36\728361337c5c4347a2bbe35cbbe1c092]],
+        [[C:\Users\31667\AppData\Local\.xmake\packages\g\glfw\3.4\d59f6dd71e7647cc95d2c1d35e51a39a]],
+        [[C:\Users\31667\AppData\Local\.xmake\packages\g\glm\1.0.0\8e704035b4b349e8b24c40b592e14ab2]],
+        [[C:\Users\31667\AppData\Local\.xmake\packages\i\imgui\v1.90.1\058b98bc7cf94c319b845320d606f897]],
+        [[C:\Users\31667\AppData\Local\.xmake\packages\s\spdlog\v1.15.3\f0315a3a96984a418ff57bb210e533f9]],
+        [[C:\Users\31667\AppData\Local\.xmake\packages\s\stb\2025.03.14\5add428b704648039c039d4d74bed865]],
+        [[C:\Users\31667\AppData\Local\.xmake\packages\f\fmt\11.2.0\ee1902dd7cff4195a287949f80dbce70]],
+        [[C:\Users\31667\AppData\Local\.xmake\packages\t\tinyobjloader\v2.0.0rc13\bd2e4e8e2a164e3b805e4412fcbe8c54]],
+        [[C:\Users\31667\AppData\Local\.xmake\packages\y\yaml-cpp\0.8.0\c0926e9bd3924318a735576bfb7ca8f2]],
+        [[C:\Users\31667\AppData\Local\.xmake\packages\e\eigen\3.4.0\ad4e9e04652248d6872dd8645256ff1c]],
+        [[C:\Users\31667\AppData\Local\.xmake\packages\a\assimp\v6.0.2\a44498529b1846d3b012aa21538d7fa3]],
+        [[C:\Users\31667\AppData\Local\.xmake\packages\z\zlib\v1.3.1\95786712bac941e795afa187a68143a4]],
+        [[C:\Users\31667\AppData\Local\.xmake\packages\m\minizip\v1.2.13\83cf23a00c5d42db95eb525348507e77]]
+    }
+}
